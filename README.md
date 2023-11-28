@@ -1,6 +1,6 @@
 ## Github Activity
 
-![](https://github-readme-stats.vercel.app/api?username=T-K-233&show_icons=true&hide_border=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=T-K-233&show_icons=true&hide_border=true&rank_icon=percentile&&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 ## Programming Languages
 
