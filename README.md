@@ -8,7 +8,7 @@
 
 ## Trailer
 
-[![Watch the video](https://github.com/T-K-233/T-K-233/assets/26409587/35fcdd95-274e-4a7f-8f54-dd0ceadfdfe0)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://github.com/T-K-233/T-K-233/assets/26409587/35fcdd95-274e-4a7f-8f54-dd0ceadfdfe0)](https://youtu.be/Oxgzn2KRp-M?si=CHFXRJPgQhKqIh8f)
 
 
 <!--
