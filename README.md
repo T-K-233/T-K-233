@@ -6,6 +6,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=T-K-233&langs_count=20&hide=Jupyter%20Notebook&hide_border=true&layout=compact&theme=dark)
 
+## Trailer
+
+[![Watch the video](https://github.com/T-K-233/T-K-233/assets/26409587/35fcdd95-274e-4a7f-8f54-dd0ceadfdfe0)](https://youtu.be/vt5fpE0bzSY)
+
+
 <!--
 **T-K-233/T-K-233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
